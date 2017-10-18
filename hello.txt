@@ -1,6 +1,6 @@
 (define (testing git)
   (if (equal? git "mike")
-      true
-      false))
+      1
+      0))
 (testing "brad")
 ;should evaluate to false
