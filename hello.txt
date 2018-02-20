@@ -2,5 +2,5 @@
   (if (equal? git "mike")
       true
       false))
-(testing "ja3"3)
+(testing "ja33"3)
 ;should evaluate to false
